@@ -193,18 +193,6 @@ hand-gesture-3d/
 
 ---
 
-## 🤝 Вклад в проект
-
-Мы приветствуем вклад в развитие проекта! Если вы хотите помочь:
-
-1. Форкните репозиторий
-2. Создайте ветку для новой функции (`git checkout -b feature/amazing-feature`)
-3. Зафиксируйте изменения (`git commit -m 'Add amazing feature'`)
-4. Отправьте в ветку (`git push origin feature/amazing-feature`)
-5. Откройте Pull Request
-
----
-
 ## 📄 Лицензия
 
 Этот проект распространяется под лицензией MIT. Смотрите файл [LICENSE](LICENSE) для подробностей.
@@ -213,11 +201,7 @@ hand-gesture-3d/
 
 ## 👨‍💻 Авторы
 
-- **Ваше имя** - *Начальная работа* - [YourGitHub](https://github.com/yourusername)
-
-Смотрите также список всех [участников](https://github.com/yourusername/hand-gesture-3d/contributors), которые участвовали в этом проекте.
-
----
+- **Hol1x** - *Вся Работа* - [GitHub](https://github.com/Hol1x1337)
 
 ## 🙏 Благодарности
 
